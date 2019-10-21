@@ -1,4 +1,7 @@
-run `npm run dev``
+## Start Project 
+
+run `npm run dev`
+
 run `npm run json:server`
 
 and open `http://localhost:4000/graphql`
