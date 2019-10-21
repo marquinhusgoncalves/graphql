@@ -50,3 +50,15 @@ fragment companyDetail on Company {
   }
 }
 ```
+
+## mutation addUser
+
+```
+mutation {
+  adduser(firstName:"Stephen", age: 38) {
+    id
+    firstName
+    age
+  }
+}
+```
